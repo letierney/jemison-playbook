@@ -8,7 +8,6 @@ Documents are **groups of pages** connected through:
 
 - a **sidebar**
 - **previous/next navigation**
-- **versioning**
 
 ## Create your first Doc
 
@@ -37,19 +36,4 @@ sidebar_position: 3
 # Hello
 
 This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```diff title="sidebars.js"
-module.exports = {
-  tutorialSidebar: [
-    {
-      type: 'category',
-      label: 'Tutorial',
--     items: [...],
-+     items: ['hello'],
-    },
-  ],
-};
 ```
