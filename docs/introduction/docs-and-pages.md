@@ -2,14 +2,19 @@
 sidebar_position: 3
 ---
 
-# Create a Document
+# Documents & Pages
+
+:::danger
+
+This page is still under construction
+:::
 
 Documents are **groups of pages** connected through:
 
 - a **sidebar**
 - **previous/next navigation**
 
-## Create your first Doc
+## Create a Doc
 
 Create a markdown file at `docs/hello.md`:
 

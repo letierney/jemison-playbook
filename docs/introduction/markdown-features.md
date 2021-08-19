@@ -2,9 +2,15 @@
 sidebar_position: 5
 ---
 
-# Markdown Features
+# Markdown & Features
 
-Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
+:::danger
+
+This page is still under construction
+:::
+
+Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)**, a lightweight markup language used to create formatted text, typically for publishing on the internet. There's also a few **additional features** available details for which are outlined below.
+
 
 ## Front Matter
 
