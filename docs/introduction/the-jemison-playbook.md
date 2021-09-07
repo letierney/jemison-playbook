@@ -9,3 +9,11 @@ slug: /
 
 This page is still under construction
 :::
+
+## How the playbook can work for you
+
+## How to get involved
+
+### Guidelines
+
+## Feedback and questions
