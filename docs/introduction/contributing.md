@@ -23,11 +23,11 @@ Everyone at AND with a GiHub account can access to download and suggest edits to
 You can find the playbook repo here.
 
 ## How to suggest edits
-There are two ways to suggest edits to the playbook.
+There are three ways to suggest edits to the playbook.
 
-1. From a playbook article
-2. Online using the web editor
-3. On your computer using a Code Editor
+1. Directly from the playbook article
+2. Using an online code editor
+3. Using a code editor on your computer
 
 All ways will allow you to edit the playbook. Editing on your computer will allow you to see changes before they are merged and deployed to the live site but if you are new to GitLab then you may find it easier to edit the playbook online.
 
@@ -47,7 +47,7 @@ All ways will allow you to edit the playbook. Editing on your computer will allo
 
 
 ### Editing the playbook on your computer
-You may want to ask a developer for help with this. Ask in the xxxx channel on slack
+You may want to ask a developer for help with this. Ask in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack
 
 1. Download a code editor such as VS Code, or Atom or (Sublime)[https://www.sublimetext.com/].
 2. Make a new SSH Key or use an existing key.
