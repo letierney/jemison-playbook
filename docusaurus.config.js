@@ -9,7 +9,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
-  organizationName: 'jtattum94', // Usually your GitHub org/user name.
+  organizationName: 'and-digital-jemison', // Usually your GitHub org/user name.
   projectName: 'jemison-playbook', // Usually your repo name.
   themeConfig: {
     navbar: {
