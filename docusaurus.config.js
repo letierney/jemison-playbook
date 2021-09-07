@@ -37,7 +37,7 @@ module.exports = {
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/jtattum/jemison-playbook',
+            'https://github.com/AND-Digital-Jemison/jemison-playbook',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
