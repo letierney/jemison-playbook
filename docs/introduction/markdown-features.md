@@ -3,11 +3,11 @@ sidebar_position: 3
 ---
 
 # Markdown & Features
-
+## Markdown
 Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)**, a lightweight markup language used to create formatted text, typically for publishing on the internet. There's also a few **additional features** available details for which are outlined below.
 
 
-## Front Matter
+### Front Matter
 
 Markdown documents have metadata at the top called [Front Matter](https://jekyllrb.com/docs/front-matter/):
 
@@ -27,7 +27,7 @@ Markdown text with [links](./hello.md)
 ```
 
 
-## Images
+### Images
 
 Regular Markdown images are supported.
 
@@ -39,7 +39,7 @@ Add an image at `static/img/docusaurus.png` and display it in Markdown:
 
 ![Docusaurus logo](/img/docusaurus.png)
 
-## Code Blocks
+### Code Blocks
 
 Markdown code blocks are supported with Syntax highlighting.
 
@@ -57,7 +57,7 @@ function HelloDocusaurus() {
 }
 ```
 
-## Admonitions
+### Admonitions
 
 Docusaurus has a special syntax to create admonitions and callouts:
 
