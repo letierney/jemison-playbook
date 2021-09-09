@@ -10,12 +10,12 @@ This page is still under construction
 :::
 
 ## How the playbook is built
-The playbook is made using Docusaurus and GitHub so anyone in Jemison can view and contribute. We encourage everyone in the club to contribute as this will always be a work in progress.
+The playbook is made using [Docusaurus](https://docusaurus.io/) and GitHub so anyone in Jemison can view and contribute. We encourage everyone in the club to contribute as this will always be a work in progress.
 
 It's really hard to break things as your changes will be peer reviewed to help find any bugs or errors. If you have any suggestions on articles we could add or improvements to the information architecture we could make, then please post these in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack.
 
 ### Creating a GitHub account
-You need a GitHub account to be able to contribute to the Playbook. Visit [Github] to sign up for an account. You can use your AND email address or sign in with a personal account. The repo is open source (publicly accessible) and stored in the AND Digital Jemison organisation.
+You need a GitHub account to be able to contribute to the Playbook. Visit [Github](https://github.com/) to sign up for an account. You can use your AND email address or sign in with a personal account. The repo is open source (publicly accessible) and stored in the AND Digital Jemison organisation.
 
 ### Accessing the repo
 If you have just made a GitHub account then post in the the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack and someone will be able to help and make sure you're added to the right organisations and groups.
@@ -31,7 +31,7 @@ There are three ways to suggest edits to the playbook.
 
 Editing on your computer will allow you to preview changes before they are merged and deployed to the live site via localhost. If you are new to GitHub then you may find it easier to edit the playbook online to start with.
 
-Remember to follow [these guidelines](https://jemison-playbook.netlify.app/#guidelines) if you are editing an existing artcile or creating something new.
+Remember to follow [these guidelines](https://jemison-playbook.netlify.app/#guidelines-for-articles) if you are editing an existing artcile or creating something new.
 
 ### Editing from a playbook article
 1. 
@@ -61,4 +61,5 @@ You may want to ask a developer for help with this. Ask in the [jemison-playbook
 8. Copy the URL of the merge request and paste it in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack. The URL should look like xxxxx.
 
 ## The review process
-Why review? What will happen?
+Why review?
+What will happen?
