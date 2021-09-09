@@ -5,11 +5,6 @@ slug: /
 
 # The Jemison Playbook
 
-:::danger
-
-This page is still under construction
-:::
-
 ## The playbook
 The Jemison playbook is intended as a one stop shop for all information you might need as a Jemison ANDi!
 

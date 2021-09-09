@@ -4,11 +4,6 @@ sidebar_position: 3
 
 # Markdown & Features
 
-:::danger
-
-This page is still under construction
-:::
-
 Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)**, a lightweight markup language used to create formatted text, typically for publishing on the internet. There's also a few **additional features** available details for which are outlined below.
 
 

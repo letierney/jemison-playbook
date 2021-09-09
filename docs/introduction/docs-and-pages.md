@@ -4,11 +4,6 @@ sidebar_position: 4
 
 # Documents & Pages
 
-:::danger
-
-This page is still under construction
-:::
-
 Documents are **groups of pages** connected through:
 
 - a **sidebar**
