@@ -12,7 +12,7 @@ This page is still under construction
 ## How the playbook is built
 The playbook is made using [Docusaurus](https://docusaurus.io/) and GitHub so anyone in Jemison can view and contribute. We encourage everyone in the club to contribute as this will always be a work in progress.
 
-It's really hard to break things as your changes will be peer reviewed to help find any bugs or errors. If you have any suggestions on articles we could add or improvements to the information architecture we could make, then please post these in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack.
+It's really hard to break things as your changes will be peer reviewed to help find any bugs or errors. If you have any suggestions on pages or sections we could add, or improvements to the information architecture we could make, then please post these in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack.
 
 ### Creating a GitHub account
 You need a GitHub account to be able to contribute to the Playbook. Visit [Github](https://github.com/) to sign up for an account. You can use your AND email address or sign in with a personal account. The repo is open source (publicly accessible) and stored in the AND Digital Jemison organisation.
@@ -25,15 +25,15 @@ You can find the playbook [repo here](https://github.com/AND-Digital-Jemison/jem
 ## How to suggest edits
 There are three ways to suggest edits to the playbook.
 
-1. Directly from the playbook article
+1. Directly from the playbook page
 2. Using an online code editor
 3. Using a code editor on your computer
 
 Editing on your computer will allow you to preview changes before they are merged and deployed to the live site via localhost. If you are new to GitHub then you may find it easier to edit the playbook online to start with.
 
-Remember to follow [these guidelines](https://jemison-playbook.netlify.app/#guidelines-for-articles) if you are editing an existing artcile or creating something new.
+Remember to follow [these guidelines](https://jemison-playbook.netlify.app/#guidelines-for-pages) if you are editing an existing pages or creating something new.
 
-### Editing from a playbook article
+### Editing from a playbook page
 1. 
 
 
