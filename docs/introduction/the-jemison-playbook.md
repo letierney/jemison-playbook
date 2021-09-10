@@ -10,7 +10,7 @@ The Jemison playbook is intended as a one stop shop for all information you migh
 
 It is a place to house documentation, links, and information on processes. Because this has been built as an [open source project](https://jemison-playbook.netlify.app/introduction/contributing), all Jemison ANDis can contribute, but we do need to be careful on what we post and advertise on here as this can be seen by anyone, including people outside of the organisation. This is unlikely, but possible.
 
-To mitigate this risk we have created the [following guidelines](https://jemison-playbook.netlify.app/#guidelines-for-articles) which should be adhered to as much as possible.
+To mitigate this risk we have created the [following guidelines](https://jemison-playbook.netlify.app/#guidelines-for-pages) which should be adhered to as much as possible.
 
 ## How to get involved
 The Jemison playbook needs you! To make this a success, we all need to play a part in adding and maintaining the playbook as information changes. 

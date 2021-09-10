@@ -60,6 +60,6 @@ You may want to ask a developer for help with this. Ask in the [jemison-playbook
 7. Commit and push the changes to GitHub. Add a description to explain what the changes are about then click Create merge request. Without this information your merge request may be rejected.
 8. Copy the URL of the merge request and paste it in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack. The URL should look like xxxxx.
 
-## The review process
+## How changes are reviewed
 Why review?
 What will happen?
