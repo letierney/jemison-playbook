@@ -43,7 +43,7 @@ Remember to follow [these guidelines](https://jemison-playbook.netlify.app/#guid
 7. Add a description to explain what the changes are about then click Create pull request. Without this information your pull request may be rejected.
 8. Add in a name for the target branch such as update-to-about-playbook. GitHub will show a tick box that will start a new pull request. We want this box to be ticked, so that your changes can be reviewed and applied.
 9. Click Propose Changes.
-10. Copy the URL of the pull request and paste it in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack. The URL should look like xxxxx.
+10. Copy the URL of the pull request and paste it in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack tagging Carissa in your post. The URL should look like xxxxx.
 
 
 ### Editing using an online code editor
@@ -54,7 +54,7 @@ Remember to follow [these guidelines](https://jemison-playbook.netlify.app/#guid
 5. Add in a name for the target branch such as update-to-about-playbook. GitHub will show a tick box that will start a new pull request. We want this box to be ticked, so that your changes can be reviewed and applied.
 6. Click Propose Changes.
 7. You will be taken to a new pull request screen. Add a description to explain what the changes are about then click Create pull request. Without this information your pull request may be rejected.
-8. Copy the URL of the pull request and paste it in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack. The URL should look like xxxxx.
+8. Copy the URL of the pull request and paste it in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack tagging Carissa in your post. The URL should look like xxxxx.
 
 
 ### Editing using a code editor on your computer
@@ -67,7 +67,7 @@ You may want to ask a developer for help with this if you haven't done this befo
 5. Start the site by using the command npm start in Terminal
 6. Edit the pages using your code editor
 7. When you're ready to commit and push the changes to GitHub, add a description to explain what the changes are about then click create pull request. Without this information your pull request may be rejected.
-8. Copy the URL of the pull request and paste it in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack. The URL should look like xxxxx.
+8. Copy the URL of the pull request and paste it in the [jemison-playbook](https://and-jemison.slack.com/archives/C02CEJ7JP40) channel on slack tagging Carissa in your post. The URL should look like xxxxx.
 
 ## How changes are reviewed
 Why review?
