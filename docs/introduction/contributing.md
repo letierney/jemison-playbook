@@ -22,7 +22,10 @@ If you have just made a GitHub account then post in the the [jemison-playbook](h
 
 You can find the playbook [repo here](https://github.com/AND-Digital-Jemison/jemison-playbook).
 
-## How to suggest edits
+## Jemison playbook upwave (backlog)
+UPDATE: what is the upwave? how to use it? WIP limits.
+
+## How to suggest edits as a pull request
 There are three ways to suggest edits to the playbook.
 
 1. Directly from the playbook page

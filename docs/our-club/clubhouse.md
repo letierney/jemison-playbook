@@ -25,16 +25,15 @@ Every ANDi will be allocated an access card. If you forget your pass, you can bo
 Before you visit the office you need to register yourself for a space using the [reginald app via slack](https://slack.com/app_redirect?app=A016ZJ74JE6). This is so that we can monitor and measure office usage as we scale, and so we know who may have been in contact in case of a covid outbreak. [Click here for more detail on how to use reginald.](https://docs.google.com/document/d/17dnOP4xetc7QKqjM6P2uM-73qsPC6UXMBpY8p2YpIMA/edit)
 
 ### First visit
-You will need to obtain your access card from the Bloc reception desk in order to access the office and communal workspace areas.
-
+Make sure you check and register on [reginald app via slack](https://slack.com/app_redirect?app=A016ZJ74JE6) to reserve a desk in the office for the day. You will need to obtain your access card from the Bloc reception desk in order to access the office and communal workspace areas.
 
 ### Subsequent visits
-Make sure you check and register on reginald to reserve a desk in the office for the day, but use your pass to get in and out as you need!
+Make sure you check and register on [reginald app via slack](https://slack.com/app_redirect?app=A016ZJ74JE6) to reserve a desk in the office for the day, but use your pass to get in and out as you need!
 
 ### Visitors
 *Question to Laura and Carissa* - do we need to outline what kind of visitors/guests are and aren't acceptable with some example use cases?
 
-If you have a visitor who needs access to the office then you will need to email bloc at [bloc.reception@bruntwood.co.uk](mailto:bloc.reception@bruntwood.co.uk) with the following information:
+If you have a visitor who needs access to the office then you will need to email bloc at [bloc.reception@bruntwood.co.uk](mailto:bloc.reception@bruntwood.co.uk?subject=Bloc%20AND%20Digital%20Visitor%20Request) with the following information:
 - The name of the visitor
 - The date and time they will be visiting
 - Your contact information (or the contact information for the ANDi they are visiting)
@@ -64,7 +63,7 @@ Meeting rooms are bookable in bloc for certain meetings and use cases, but are p
 *Laura/Carissa* - do we want to establish a process for this?
 
 ### Multifaith Room
-The multifaith room is located in the building's basement and is named the 'Contemplation Room'. If you would like to access this space then you will need to email bloc at [bloc.reception@bruntwood.co.uk](mailto:bloc.reception@bruntwood.co.uk) with the following information:
+The multifaith room is located in the building's basement and is named the 'Contemplation Room'. If you would like to access this space then you will need to email bloc at [bloc.reception@bruntwood.co.uk](mailto:bloc.reception@bruntwood.co.uk?subject=Contemplation%20Room%20Booking%20Request) with the following information:
 - The day that you wish to use the room
 - The times that you wish to use the room
 - The purpose of the use
