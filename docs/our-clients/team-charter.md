@@ -1,10 +1,5 @@
 # Team Charter
 
-:::danger
-
-This page is still under construction
-:::
-
 ## What is a team charter?
 A team charter is a series of living artefacts created by a team that clarifies a team's direction, purpose, scope, boundaries, and operating guidelines.
 
@@ -27,4 +22,4 @@ If you wish to run some Team Charter exercises as a team then you will need to d
 - The nature of our tooling setup at AND right now limits the number of free boards, spaces, and teams we can create on miro. Be savvy with how you use boards and try to use for more than one purpose in a single team if possible.
 
 ## Feedback and Questions
-If you have any feedback, suggestions, or questions about the Team Charter, message [Jenny](https://and-jemison.slack.com/archives/D017Z4YUVQE). 
+If you have any feedback, suggestions, or questions about the Team Charter, message [Jenny](https://and-jemison.slack.com/archives/D017Z4YUVQE).
