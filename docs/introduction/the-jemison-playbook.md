@@ -6,11 +6,14 @@ slug: /
 # The Jemison Playbook
 
 ## The playbook
-The Jemison playbook is intended as a one stop shop for all information you might need as a Jemison ANDi!
+The Jemison playbook is intended as a one stop shop for all process and procedure information you might need as a Jemison ANDi!
 
 It is a place to house documentation, links, and information on processes. Because this has been built as an [open source project](https://jemison-playbook.netlify.app/introduction/contributing), all Jemison ANDis can contribute, but we do need to be careful on what we post and advertise on here as this can be seen by anyone, including people outside of the organisation. This is unlikely, but possible.
 
 To mitigate this risk we have created the [following guidelines](https://jemison-playbook.netlify.app/#guidelines-for-pages) which should be adhered to as much as possible.
+
+### Jemison playbook vs jemison hub
+The playbook is here to provide a self-service way to direct and signpost you to other tools and resources that might be helpful. The [jemison hub](https://sites.google.com/and.digital/club-jemison-hub/home?authuser=0) is a much more dynamic site which is updated more frequently with club news, opportunities, and information about the people we work with.
 
 ## How to get involved
 The Jemison playbook needs you! To make this a success, we all need to play a part in adding and maintaining the playbook as information changes. 
